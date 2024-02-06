@@ -26,3 +26,4 @@ C:\Users\Start\Desktop\Backendutveckling\C#\chat-client\obj\Debug\net8.0\refint\
 C:\Users\Start\Desktop\Backendutveckling\C#\chat-client\obj\Debug\net8.0\C#_chat-client.pdb
 C:\Users\Start\Desktop\Backendutveckling\C#\chat-client\obj\Debug\net8.0\C#_chat-client.genruntimeconfig.cache
 C:\Users\Start\Desktop\Backendutveckling\C#\chat-client\obj\Debug\net8.0\ref\C#_chat-client.dll
+C:\Users\Start\Desktop\Backendutveckling\C#\chat-client\obj\Debug\net8.0\C#_chat-client.sourcelink.json
