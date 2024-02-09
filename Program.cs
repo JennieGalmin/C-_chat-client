@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        ServerClient.Client();
+        ServerClient serverclient = new ServerClient();
+        serverclient.Client();
     }
 }
